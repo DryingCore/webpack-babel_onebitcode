@@ -1,0 +1,1 @@
+document.getElementById("random_generator").addEventListener("click",(function(){var e=1e7*Math.random(),t=Math.floor(e).toString();document.getElementById("display_random").value=t}));
